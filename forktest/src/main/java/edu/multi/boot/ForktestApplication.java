@@ -8,7 +8,7 @@ public class ForktestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ForktestApplication.class, args);
-		System.out.println("forktest");
+		System.out.println("forktest 원격에서 수정합니다");
 	}
 
 }
